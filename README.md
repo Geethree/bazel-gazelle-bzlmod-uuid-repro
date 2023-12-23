@@ -1,0 +1,1 @@
+# bazel-gazelle-bzlmod-uuid-repro
